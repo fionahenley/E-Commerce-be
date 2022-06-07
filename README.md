@@ -20,6 +20,7 @@ Sign out of MySql. Seed the database by running npm run seed in your terminal.
 
 ## Credits
 Fiona Henley
+Moved all files from old computer to this one since it did not transfer through github, uploaded the old file into github. 
 
 ## License 
 None
